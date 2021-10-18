@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Mauricio Bautista and I´m a data analyst I have worked with Scrum and use tools like power bi, tableu and data studio
+- 👋 Hi, I’m  Mauricio Bautista and I´m a data analyst and I really love work with data
 - My favorite languages are Python, R and Javascript
 - 👀 I’m interested in Artifitial Intelligence, Data Engineering and Cloud computing
 - I love to learn, and I am a believer in lifelong learning.
