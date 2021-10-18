@@ -1,6 +1,6 @@
-- 👋 Hi, I’m  Mauricio Bautista and I´m a data analyst and I really love work with data
-- 👀 I’m interested in Artifitial Intelligence, Data Engineering and Cloud computing
-- I love to learn, and I am a believer in lifelong learning.
+## 👋 Hi, I’m  Mauricio Bautista
+- I´m a data analyst and I really love work with data
+- 👀 I’m interested in Artifitial Intelligence, Data Engineering and Cloud computing, I love to learn, and I am a believer in lifelong learning.
 - 🌱 I’m currently learning in Platzi about Cloud Computing and Data science
 - 💞️ I’m looking to collaborate on Data science and web scrapping projects
 - 📫 How to reach me ...
