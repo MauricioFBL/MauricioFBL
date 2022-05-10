@@ -4,7 +4,7 @@
 &nbsp; Yo can reach me in https://www.linkedin.com/in/mauricio-bautista-9aba301a9/ 
 - 👀 I’m interested in Artifitial Intelligence, Data Engineering and Cloud computing, I love to learn, and I am a believer in lifelong learning.
 - 🌱 I’m currently learning in Platzi about Cloud Computing and Data science and hope soon can apply for the AWS Developer addociate certification
-- 💞️ I’m looking to collaborate on Data science, Data enginieering, web scrapping projects
+- 💞️ I’m looking to collaborate on Data science, Data engineering, web scrapping, analytic projects
 - 📫 How to reach me you can send an inbox to my linkedIn[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mauricio-bautista-9aba301a9/) and I respond as soon as possible
 - Technologies
     - ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)    ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
