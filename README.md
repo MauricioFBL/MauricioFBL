@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m  Mauricio Bautista
 - I´m a data engineer who really love work with data, Im always looking for something to learn and I belive data help us to undesrtand everything
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mauricio-bautista-9aba301a9/)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mauricio-fbl/)
 &nbsp; Yo can reach me in https://www.linkedin.com/in/mauricio-bautista-9aba301a9/ 
 - 👀 I’m interested in Artifitial Intelligence, Data Engineering and Cloud computing, I love to learn, and I am a believer in lifelong learning.
 - 🌱 I’m currently learning in Platzi and Clouduru about Cloud Computing and Data science and hope soon can apply for the AWS Developer addociate certification
