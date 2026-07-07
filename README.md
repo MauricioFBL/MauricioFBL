@@ -7,12 +7,9 @@ Senior Data Engineer with 8+ years designing and running data platforms across *
 - 🔭 Currently working on data pipelines, dbt models, and LookML architecture on GCP (BigQuery, Dataflow, Cloud Run), plus PySpark pipelines and Power BI reporting
 - 🌱 Deepening AI Engineering skills: agentic systems, RAG, MCP, and building with Claude Code / Bedrock
 - 🎯 Building a portfolio project: a Staff/Principal-level data platform (AWS, PySpark) with documented architecture tradeoffs
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mauricio-fbl/)
-
-<br>
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mauricio-fbl/) <br>
 
 ### Stack
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,16 +50,5 @@ Senior Data Engineer with 8+ years designing and running data platforms across *
 
 ![Anthropic](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-<br>
-
-### GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MauricioFBL&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Mauricio's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioFBL&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-fbl/)
